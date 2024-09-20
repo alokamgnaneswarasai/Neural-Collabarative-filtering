@@ -5,3 +5,11 @@ Neural collaborative filtering(NCF), is a deep learning based framework for maki
 * He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.
 
 This code is highly inspired by [this GitHub repository](https://github.com/yihong-chen/neural-collaborative-filtering.git).(Whole credit goes to that person)
+
+
+
+## Usage
+
+cd src  ( Move to the src folder which consists of the whole code)
+
+python3 train.py (download the necessary requirements if there is any thing to be installed)
